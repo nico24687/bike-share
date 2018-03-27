@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.iconscout.com/public/images/icon/free/png-512/person-biking-riding-travel-bike-32ba9c65398cb07b-512x512.png" alt="Adop Shop logo"/>
+  <img src="https://cdn.iconscout.com/public/images/icon/free/png-512/person-biking-riding-travel-bike-32ba9c65398cb07b-512x512.png" width="150" height="150" alt="Adop Shop logo"/>
 </p>
 
 # Bike Share
